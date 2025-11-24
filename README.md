@@ -7,11 +7,9 @@ Motivated Software Engineering student at Burapha University with hands-on exper
 
 ### 💼 Work Experience
 
-#### **TTT Brother Co., Ltd. — Team Lead / Full-Stack Developer**  
+#### **TTT Brother Co., Ltd. — Full-Stack Developer**  
 **2025 – Present**  
-- Developed an AI-based CCTV object detection system with real-time monitoring  
-- Implemented multi-camera abnormal activity detection with automated alerts  
-- Built full-stack architecture for event processing and dashboard system  
+- Built an AI-driven CCTV monitoring system with real-time multi-camera event detection.
 
 **Tech Stack:**  
 `Next.js` · `Express.js` · `TypeScript` · `PostgreSQL` · `CCTV` · `AI`
@@ -20,9 +18,7 @@ Motivated Software Engineering student at Burapha University with hands-on exper
 
 #### **TTT Brother Co., Ltd. — Team Lead / Full-Stack Developer**  
 **2024 – 2025**  
-- Developed an internal developer performance evaluation platform  
-- Automated workflows previously done via Google Sheets & Trello  
-- Designed backend structure and implemented core platform features  
+- Developed an automated performance evaluation platform replacing manual workflows.
 
 **Tech Stack:**  
 `Laravel` · `PHP` · `MySQL` · `JavaScript`
@@ -31,9 +27,7 @@ Motivated Software Engineering student at Burapha University with hands-on exper
 
 #### **NSC Thailand 2024 — Team Lead / Full-Stack Developer**  
 **2024**  
-- Created an English vocabulary learning game for education  
-- Designed gameplay system, backend APIs, and overall flow  
-- Achieved **Finalist** award at National Software Contest (NSC) 2024  
+- Created an educational vocabulary-learning game selected as an NSC finalist.
 
 **Tech Stack:**  
 `Unity` · `C#`
@@ -63,12 +57,8 @@ Motivated Software Engineering student at Burapha University with hands-on exper
 
 ---
 
-### 🔗 Connect
+### 🔗 Contact
 <div align="center">
-
-  <a href="https://github.com/wanasart" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="32" />
-  </a>
 
   <a href="mailto:wanasartnianthasat@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="32" />
