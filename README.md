@@ -25,7 +25,7 @@ Motivated Software Engineering student at Burapha University with hands-on exper
 
 ---
 
-#### **NSC Thailand 2024 — Team Lead / Full-Stack Developer**  
+#### **NSC Thailand 2024 — Team Lead / Game Developer**  
 **2024**  
 - Created an educational vocabulary-learning game selected as an NSC finalist.
 
