@@ -7,7 +7,7 @@ Motivated Software Engineering student at Burapha University with hands-on exper
 
 ### 💼 Work Experience
 
-#### **TTT Brother Co., Ltd. — Full-Stack Developer**  
+#### **TTT Brother Co., Ltd. — Team Lead / Full-Stack Developer**  
 **2025 – Present**  
 - Built an AI-driven CCTV monitoring system with real-time multi-camera event detection.
 
