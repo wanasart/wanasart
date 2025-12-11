@@ -5,35 +5,6 @@ Motivated Software Engineering student at Burapha University with hands-on exper
 
 ---
 
-### 💼 Work Experience
-
-#### **TTT Brother Co., Ltd. — Team Lead / Full-Stack Developer**  
-**2025 – Present**  
-- Built an AI-driven CCTV monitoring system with real-time multi-camera event detection.
-
-**Tech Stack:**  
-`Next.js` · `Express.js` · `TypeScript` · `PostgreSQL` · `CCTV` · `AI`
-
----
-
-#### **TTT Brother Co., Ltd. — Team Lead / Full-Stack Developer**  
-**2024 – 2025**  
-- Developed an automated performance evaluation platform replacing manual workflows.
-
-**Tech Stack:**  
-`Laravel` · `PHP` · `MySQL` · `JavaScript`
-
----
-
-#### **NSC Thailand 2024 — Team Lead / Game Developer**  
-**2024**  
-- Created an educational vocabulary-learning game selected as an NSC finalist.
-
-**Tech Stack:**  
-`Unity` · `C#`
-
----
-
 ### 🛠 Tech Stack
 <div align="center">
 
