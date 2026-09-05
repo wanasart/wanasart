@@ -1,42 +1,122 @@
-# 👋 Hi there, I'm **Wanasart**
-
-### 🧑‍💻 Profile Summary
-Motivated Software Engineering student at Burapha University with hands-on experience leading full-stack development projects in collaboration with industry partners. Skilled in building AI-assisted systems, real-time monitoring tools, and workflow automation platforms. Passionate about Full-Stack Development and committed to creating efficient, user-focused software. Seeking opportunities to expand technical expertise and contribute to impactful development projects.
-
----
-
-### 🛠 Tech Stack
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts" height="36"/>
-<img src="https://skillicons.dev/icons?i=js" height="36"/>
-<img src="https://skillicons.dev/icons?i=php" height="36"/>
-<img src="https://skillicons.dev/icons?i=nextjs" height="36"/>
-<img src="https://skillicons.dev/icons?i=react" height="36"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="36"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="36"/>
-<img src="https://skillicons.dev/icons?i=express" height="36"/>
-<img src="https://skillicons.dev/icons?i=laravel" height="36"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="36"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="36"/>
-<img src="https://skillicons.dev/icons?i=docker" height="36"/>
-<img src="https://skillicons.dev/icons?i=figma" height="36"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="36"/>
+# Wanasart Nianthasat
+
+**Full-Stack Developer · Chonburi, Thailand**
+
+### I build digital experiences that feel effortless.
+
+Turning complex ideas into thoughtful, reliable products.<br>
+From AI-powered platforms to polished web experiences.
+
+<br>
+
+<a href="mailto:wanasartnianthasat@gmail.com"><img src="https://img.shields.io/badge/Email-0D6EFD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/wanasart-nianthasat-763b43390/"><img src="https://img.shields.io/badge/LinkedIn-0D6EFD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+&nbsp;
+<a href="https://github.com/WanixLab"><img src="https://img.shields.io/badge/WanixHub-0D6EFD?style=for-the-badge&logo=github&logoColor=white" alt="WanixHub"></a>
+
+<br><br>
+
+<sub>OPEN TO OPPORTUNITIES · INTERNSHIPS · COLLABORATIONS</sub>
 
 </div>
 
+<br>
+
+## / About
+
+I'm Wanasart, a **Software Engineering student at Burapha University**.
+I enjoy connecting thoughtful interfaces with the systems behind them —
+building software that makes everyday work simpler.
+
+- **Build** — Full-stack applications, AI-assisted systems, and workflow automation.
+- **Lead** — Hands-on experience leading development teams with industry partners.
+- **Explore** — Side projects and product ideas with friends at **[WanixHub](https://github.com/WanixLab)**.
+- **Learn** — B.Eng. Software Engineering · GPA **3.70 / 4.00**.
+
+<br>
+
+## / Selected work
+
+**01 — System Document Generator**  
+Turn Excel data into ready-to-use Data Dictionary and Personal Plan Word documents.
+
+`Next.js` `Excel` `DOCX`
+
+[Explore project ↗](https://system-document-generator-client.onrender.com/)
 
 ---
 
-### 🔗 Contact
+**02 — Automated Object Detection System**  
+An AI-powered CCTV platform for real-time detection, multi-camera monitoring, and instant alerts.  
+Team Lead / Full-Stack Developer · TTT Brother Co., Ltd.
+
+`Next.js` `Express` `PostgreSQL` `WebRTC` `Docker`
+
+---
+
+**03 — TTT Developer Performance**  
+Bring manual evaluation workflows into one platform with automated scoring and clear reports.  
+Team Lead / Full-Stack Developer · TTT Brother Co., Ltd.
+
+`Laravel` `PHP` `MySQL` `Docker`
+
+[View repository ↗](https://github.com/OSSD13/cluster0)
+
+---
+
+**04 — Vocabulary Strategy**  
+An educational game that makes English vocabulary practice more engaging.  
+**Finalist · National Software Contest Thailand 2024**
+
+`Unity` `C#` `.NET`
+
+[Explore project ↗](https://vocabulary-strategy-web-site.vercel.app/) &nbsp; / &nbsp; [View repository ↗](https://github.com/wanasart/Vocabulary-Strategy)
+
+<br>
+
+## / Toolkit
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS" height="44">
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,postgres,mysql&theme=dark" alt="Node.js, Express, PHP, Laravel, PostgreSQL, MySQL" height="44">
+
+**Tools & Game Development**
+
+<img src="https://skillicons.dev/icons?i=docker,git,figma,unity,cs&theme=dark" alt="Docker, Git, Figma, Unity, C#" height="44">
+
+<br>
+
+## / Beyond solo work
+
+### Building software with friends.
+
+I run **WanixHub** together with a few close friends.
+It's where we ship side projects, experiment with ideas,
+and learn by building products together.
+
+[Discover WanixHub ↗](https://github.com/WanixLab)
+
+<br>
+
+---
+
 <div align="center">
 
-  <a href="mailto:wanasartnianthasat@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="32" />
-  </a>
+### Let's make something worth remembering.
 
-  <a href="https://www.linkedin.com/in/wanasart-nianthasat-763b43390/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
-  </a>
+Open to full-time roles, internships, and thoughtful collaborations.
+
+**[Get in touch ↗](mailto:wanasartnianthasat@gmail.com)**
+
+<br>
+
+<sub>Designing & building from Chonburi, Thailand.</sub>
 
 </div>
